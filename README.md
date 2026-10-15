@@ -1,3 +1,4 @@
+> **Retired.** This repository is no longer maintained. ReplyNodes is now the read-only web context API for AI agents — see https://replynodes.com/ and the MCP server at https://github.com/replynodes/replynodes-mcp.
 <p align="center">
   <img src="https://shared.co.actor/img/linkedin-skills-hero.jpg" alt="10 Claude Code and Codex skills for LinkedIn marketing — open source, MIT licensed" width="900" />
 </p>
